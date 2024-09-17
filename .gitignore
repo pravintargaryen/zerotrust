@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+.env
+
+# FastAPI
+*.sqlite3
+*.db
+
+# Certificates
+client.pem
+client-key.pem
+ca.pem
+
+# Uvicorn
+*.log
+
+# VS Code
+.vscode/
